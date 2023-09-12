@@ -1,0 +1,103 @@
+		#a{
+  			background-image: url("images/1-1.png");
+			background-size: cover;
+			filter: brightness(0.9);
+  		}
+  		#b{
+  			float: right;
+  		}
+  		#c{
+  			font-weight: bold;
+  			font-size: 300%;
+  		}
+  		#d{
+  			font-weight: bold;
+  		}
+  		#da{
+  			height: 85%;
+  			width: 90%;
+  		}
+  		#db{
+  			font-size: 125%;
+  			line-height: 175%;
+  		}
+  		#dc{
+  			font-weight: bold;
+  		}#dd{
+  			height: 90%;
+  			width: 95%;
+  		}
+  		#de{
+  			font-size: 125%;
+  		}
+  		#e{
+  			background-image: url("images/2.jpg");
+  			background-size: cover;
+  		}
+  		#ea{
+  			font-weight: bolder;
+  		}
+  		#eaa{
+  			font-size: 125%;
+  			line-height: 175%;
+  		}
+  		#eb{
+  			height: 90%;
+  			width: 90%;
+  		}
+  		#fa{
+  			font-weight: bold;
+  		}
+  		#fb{
+  			font-size: 125%;
+  			line-height: 150%;
+  		}
+  		#g{
+  			background: #6f00ff;
+  		}
+  		#ga{
+  			font-weight: bold;
+  			line-height: 150%;
+  		}
+  		#gb{
+  			border: 1px solid white;
+  		}
+  		#gd{
+  			height: 140%;
+  			width: 100%;
+  		}
+  		#h{
+  			background-image: url("images/3-2.jpg");
+  			background-size: cover;
+  		}
+  		#ha{
+  			font-weight: bold;
+  			font-size: 270%;
+  			line-height: 150%;
+  			color: #fdfd96;
+  		}
+  		#hb{
+  			background: #6f00ff;
+  			font-weight: bold;
+  		}
+  		#i{
+  			font-weight: bolder;
+  		}
+  		#abc{
+  			background: #ffe4e1;
+  		}
+  		#abb{
+  			font-weight: bold;
+  		}
+  		#ia{
+  			font-size: 130%;
+  			line-height: 170%;
+  		}
+  		#ib{
+  			font-size: 170%;
+  			line-height: 215%;
+  		}
+  		#ic{
+  			font-size: 130%;
+  			line-height: 215%;
+  		}
